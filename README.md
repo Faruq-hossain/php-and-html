@@ -1,2 +1,2 @@
-# php-and-html
+# Student management system
 Download all file
